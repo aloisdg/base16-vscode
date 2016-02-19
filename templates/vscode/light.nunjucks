@@ -5,7 +5,7 @@
     <key>author</key>
     <string>{{ author }}</string>
 	<key>name</key>
-	<string>Base16 {{ scheme }} (dark)</string>
+	<string>Base16 {{ scheme }} (light)</string>
 	<key>settings</key>
 	<array>
 		<dict>
